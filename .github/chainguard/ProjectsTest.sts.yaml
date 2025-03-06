@@ -2,4 +2,4 @@ issuer: https://token.actions.githubusercontent.com
 subject: repo:mkraeml/env-test:ref:refs/heads/main
 
 permissions:
-  project: write
+  organization_projects: write
