@@ -3,3 +3,4 @@ subject: repo:mkraeml/env-test:ref:refs/heads/main
 
 permissions:
   organization_projects: write
+  repository_projects: write
