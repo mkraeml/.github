@@ -2,5 +2,11 @@ issuer: https://token.actions.githubusercontent.com
 subject: repo:mkraeml/env-test:ref:refs/heads/main
 
 permissions:
+  contents: read
+  issues: read
+  pull_requests: read
   organization_projects: write
   repository_projects: write
+
+repositories:
+  - env-test
